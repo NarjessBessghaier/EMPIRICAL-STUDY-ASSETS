@@ -9,3 +9,5 @@ The dataset.zip contains:
 - files related to co-ocurrence
 - files related to survivability
 - files related to distribution
+- files related to CPH test
+
